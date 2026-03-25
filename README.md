@@ -253,17 +253,10 @@ These publicly available vulnerable sites are designed for scanner testing:
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
-
-## 🙋‍♂️ Author
-
-**Aditya**
-- GitHub: [@your-username](https://github.com/your-username)
-
----
-
-> ⭐ If you found this useful, consider giving it a star on GitHub!
-
 👨‍💻 Author
 
 Aditya Udugade
+
+> ⭐ If you found this useful, consider giving it a star on GitHub!
+
+
