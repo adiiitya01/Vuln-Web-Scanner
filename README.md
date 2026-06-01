@@ -80,4 +80,7 @@ The author is not responsible for misuse.
 ## Author
 
 Aditya Udugade — CEH Certified | Mumbai
-[LinkedIn](https://linkedin.com/in/aditya-udugade-28147b345) · [GitHub](https://github.com/adiiitya01)
+
+[LinkedIn](https://linkedin.com/in/aditya-udugade-28147b345) · 
+
+[GitHub](https://github.com/adiiitya01)
